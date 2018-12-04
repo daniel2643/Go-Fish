@@ -20,6 +20,4 @@ To begin, 7 cards are dealt to each player from a standard deck of 52 cards. The
 
 • The game continues until all sets of cards are formed. The player with the most points wins.
 
-## Computer Player
 
-Obviously, you as a player can make strategic choices as to which card you ask the other player for. Your computer opponent does not need to be “intelligent”... it just needs to at least randomly ask for a card that it has at least one of in its hand. You can implement any other AI you like as long as it conforms to that basic game rule. More sophisticated AI can be considered extra functionality.
